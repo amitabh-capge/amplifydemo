@@ -1,0 +1,2 @@
+# amplifydemo
+demo for amplify
